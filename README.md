@@ -1,6 +1,6 @@
 ﻿# Chat Image API Bridge
 
-在聊天过程中，根据用户意图调用第三方图片生成 API 的最小示例项目。
+在第三方api中转的语言智能体，在对话中，根据用户意图调用第三方图片生成 API 的最小示例项目。
 
 A minimal example showing how to call a third-party image-generation API from a chat workflow.
 
