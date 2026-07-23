@@ -1,6 +1,8 @@
-﻿# Chat Image API Bridge
+在第三方 API 中转的语言智能体根据用户意图调用第三方图片生成 API，实现在聊天框中生成图片。 / A language agent using a third-party API relay calls a third-party image-generation API based on user intent to generate images in the chat box.
 
 在第三方api中转的语言智能体根据用户意图调用第三方图片生成 API，实现在聊天框中生成图片。
+
+![历史性飞跃](assets/历史性飞跃.jpg)
 
 A minimal example showing how to call a third-party image-generation API from a chat workflow.
 
@@ -137,3 +139,4 @@ py $Imagegen generate `
 ## License
 
 MIT
+
